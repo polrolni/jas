@@ -1,2 +1,2 @@
 # jas
-JBoss EAP
+exemplary JEE servlet
